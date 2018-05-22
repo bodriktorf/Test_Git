@@ -1,0 +1,7 @@
+D:\Програмирование\videosharp.info\Test Git\Test Git\bin\Debug\Test Git.exe.config
+D:\Програмирование\videosharp.info\Test Git\Test Git\bin\Debug\Test Git.exe
+D:\Програмирование\videosharp.info\Test Git\Test Git\bin\Debug\Test Git.pdb
+D:\Програмирование\videosharp.info\Test Git\Test Git\obj\Debug\Test Git.csprojResolveAssemblyReference.cache
+D:\Програмирование\videosharp.info\Test Git\Test Git\obj\Debug\Test Git.csproj.CoreCompileInputs.cache
+D:\Програмирование\videosharp.info\Test Git\Test Git\obj\Debug\Test Git.exe
+D:\Програмирование\videosharp.info\Test Git\Test Git\obj\Debug\Test Git.pdb
