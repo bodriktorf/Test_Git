@@ -8,6 +8,9 @@ namespace Test_Git
         {
             Console.WriteLine("Hello Git");
             Console.WriteLine("Rabotaet!!!");
+
+
+            Console.ReadLine();
         }
     }
 }
